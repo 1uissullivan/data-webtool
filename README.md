@@ -1,4 +1,4 @@
-## Analysis Dashboard - Streamlit Cloud Deployment
+# Analysis Dashboard - Streamlit Cloud Deployment
 
 ## 🚀 Quick Start (3 Steps)
 
